@@ -1,0 +1,23 @@
+.wrapper {
+	margin: 20px auto;
+	width: 620px;
+}
+.cont {
+	background-color: #fffecb;
+	font-family: arial;
+	font-size: 12px;
+	line-height: 25px;
+	padding: 10px;
+}
+p {
+	text-align: center;
+}
+.title {
+	background-color: #326799;
+	color: #ecf889;
+	padding: 10px 5px;
+	text-align: center;
+}
+.thuchien {
+	text-align: center;
+}

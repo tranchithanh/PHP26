@@ -1,0 +1,18 @@
+
+.wrapper {
+    margin: 20px auto;
+    width: 367px;
+}
+.title {
+    background-color: #00a19b;
+    color: white;
+    padding: 10px 5px;
+}
+.cont {
+    background-color: #c6edec;
+    line-height: 25px;
+    padding: 5px;
+}
+.name-flow{
+	padding: 10px 0;
+}

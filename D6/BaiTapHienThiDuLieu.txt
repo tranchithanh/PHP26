@@ -1,0 +1,8 @@
+- Học viên dùng database ở bài tập trước: 
+	+ Tên database: tintuc
+	+ Tên table: tintuc
+	+ Tên table: danhmuctin
+- Hiển thị dữ liệu lấy dữ liệu từ database đổ vào giao diện gồm các trang:
+1. Trang chủ (phần Danh mục tin bên trái và Tin tức ở giữa): index.php
+2. Trang Danh mục tin: cat.php
+3. Trang chi tiết tin: detail.php

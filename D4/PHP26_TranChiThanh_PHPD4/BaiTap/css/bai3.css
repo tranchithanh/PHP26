@@ -1,0 +1,23 @@
+table{
+	margin-left: 20px;
+	border-collapse: collapse;
+}
+tr:nth-child(odd) {
+    background-color: #d9d9d9;
+}
+.head:nth-child(odd){
+	background-color: white;
+}
+table,th,td{
+	border: 1px solid;
+	text-align: center;
+	padding: 5px;
+}
+.name{
+	text-align: left;
+}
+.dtb{
+	text-align: left;
+	font-weight: bold;
+	padding-left: 40px;
+}

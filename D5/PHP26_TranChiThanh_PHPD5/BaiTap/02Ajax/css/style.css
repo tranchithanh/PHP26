@@ -1,0 +1,44 @@
+
+.wrapper {
+    margin: 20px auto;
+    width: 425px;
+}
+.title {
+    background-color: #00a19b;
+    color: white;
+    padding: 10px 5px;
+}
+.cont {
+    background-color: #c6edec;
+    line-height: 25px;
+    padding: 5px;
+}
+.name-flow {
+    padding: 10px 0;
+}
+h4 {
+    margin-top: 20px;
+}
+.basket-emtry {
+    color: blue;
+    margin-top: 10px;
+    text-align: center;
+}
+.del-basket {
+    margin-top: 25px;
+    text-align: right;
+}
+.del-basket a {
+    background-color: red;
+    border-radius: 15px;
+    color: white;
+    font-size: 12px;
+    padding: 5px;
+    text-decoration: none;
+}
+label {
+    color: red;
+    font-size: 13px;
+    font-style: italic;
+    margin-left: 10px;
+}
